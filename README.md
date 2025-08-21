@@ -242,7 +242,7 @@ Base URL: `http://localhost:5000/api`
 ### 1) Clone
 
 ```bash
-git clone https://github.com/elyse502/QuickShow.git
+git clone https://github.com/KikaniMeet/quickshow
 cd QuickShow
 ```
 
