@@ -351,6 +351,9 @@ node scripts/seed.js          # inserts movies by tmdbId and a few shows
 
 ---
 
+Support
+For support, email elyseniyibizi502@gmail.com or create an issue in the GitHub repository.
+---
 ## 🗺️ Roadmap
 
 * Payments integration (Razorpay/Stripe)
