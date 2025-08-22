@@ -139,58 +139,58 @@ QuickShow/
 ---
 ## Backend
 
-cd quickshow/backend
-npm install
-cp .env.example .env
-Add values for:
-MONGODB_URI, TMDB_API_KEY, CLERK_CLIENT_ID, CLERK_SECRET_KEY
-npm run dev
+- cd quickshow/backend
+- npm install
+- cp .env.example .env
+- Add values for:
+- MONGODB_URI, TMDB_API_KEY, CLERK_CLIENT_ID, CLERK_SECRET_KEY
+- npm run dev
 
 ---
 ### Frontend 
-cd ../frontend
-npm install
-cp .env.example .env
-Add values for:
-VITE_TMDB_API_KEY, VITE_CLERK_PUBLISHABLE_KEY
-npm run dev
+- cd ../frontend
+- npm install
+- cp .env.example .env
+- Add values for:
+- VITE_TMDB_API_KEY, VITE_CLERK_PUBLISHABLE_KEY
+- npm run dev
 
 ---
 
 ### ☁️ Deployment
 
-Frontend & Backend (Vercel)
-Connect GitHub repo to Vercel.
-Add environment variables for both frontend and backend.
-Deploy as separate projects (frontend/backend) or monorepo.
-Database (MongoDB Atlas)
-Use Atlas for hosting.
-Store connection string in environment variables.
+- Frontend & Backend (Vercel)
+- Connect GitHub repo to Vercel.
+- Add environment variables for both frontend and backend.
+- Deploy as separate projects (frontend/backend) or monorepo.
+- Database (MongoDB Atlas)
+- Use Atlas for hosting.
+- Store connection string in environment variables.
 
 ---
 
 ### 📌 Roadmap
 
-💳 Payment gateway integration (Stripe, Razorpay)
-📧 Email confirmations + PDF ticket generation
-🪑 Tiered seat-based pricing models
-⚡ TMDB caching & advanced search filters
-🔔 Push notifications for booking reminders
+- 💳 Payment gateway integration (Stripe, Razorpay)
+- 📧 Email confirmations + PDF ticket generation
+- 🪑 Tiered seat-based pricing models
+- ⚡ TMDB caching & advanced search filters
+- 🔔 Push notifications for booking reminders
 
 ---
 
 ### 🤝 Contributing
 
-Fork the repository
-Create a feature branch (git checkout -b feature-name)
-Commit changes (git commit -m "Added feature XYZ")
-Push to your branch (git push origin feature-name)
-Open a Pull Request
+- Fork the repository
+- Create a feature branch (git checkout -b feature-name)
+- Commit changes (git commit -m "Added feature XYZ")
+- Push to your branch (git push origin feature-name)
+- Open a Pull Request
 
 ---
 
 ### 👨‍💻 Author
 
 Kikani Meet Lalitbhai
-📧 Email: mitkikani027@gmail.com
+- 📧 Email: mitkikani027@gmail.com
 
