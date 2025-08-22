@@ -142,21 +142,22 @@ QuickShow/
 cd quickshow/backend
 npm install
 cp .env.example .env
-# Add values for:
-# MONGODB_URI, TMDB_API_KEY, CLERK_CLIENT_ID, CLERK_SECRET_KEY
+Add values for:
+MONGODB_URI, TMDB_API_KEY, CLERK_CLIENT_ID, CLERK_SECRET_KEY
 npm run dev
 
 ---
-##Frontend 
+### Frontend 
 cd ../frontend
 npm install
 cp .env.example .env
-# Add values for:
-# VITE_TMDB_API_KEY, VITE_CLERK_PUBLISHABLE_KEY
+Add values for:
+VITE_TMDB_API_KEY, VITE_CLERK_PUBLISHABLE_KEY
 npm run dev
 
 ---
-##☁️ Deployment
+
+### ☁️ Deployment
 
 Frontend & Backend (Vercel)
 Connect GitHub repo to Vercel.
@@ -167,7 +168,8 @@ Use Atlas for hosting.
 Store connection string in environment variables.
 
 ---
-## 📌 Roadmap
+
+### 📌 Roadmap
 
 💳 Payment gateway integration (Stripe, Razorpay)
 📧 Email confirmations + PDF ticket generation
@@ -175,7 +177,9 @@ Store connection string in environment variables.
 ⚡ TMDB caching & advanced search filters
 🔔 Push notifications for booking reminders
 
-##🤝 Contributing
+---
+
+### 🤝 Contributing
 
 Fork the repository
 Create a feature branch (git checkout -b feature-name)
@@ -183,7 +187,9 @@ Commit changes (git commit -m "Added feature XYZ")
 Push to your branch (git push origin feature-name)
 Open a Pull Request
 
-##👨‍💻 Author
+---
+
+### 👨‍💻 Author
 
 Kikani Meet Lalitbhai
 📧 Email: mitkikani027@gmail.com
