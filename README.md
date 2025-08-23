@@ -98,18 +98,18 @@ _Status: Active development_
 
 **QuickShow/**
 ```bash
-**├─ README.md**
-**├─ frontend/**
-**│ ├─ src/**
-**│ │ ├─ components/**
-**│ │ ├─ pages/**
-**│ │ ├─ hooks/**
-**│ │ ├─ routes/**
-**│ │ ├─ lib/**
-**│ │ └─ App.jsx**
-**│ ├─ public/**
-**│ └─ package.json**
-**└─ backend/**
+├─ README.md
+├─ frontend/
+│ ├─ src/
+│ │ ├─ components/
+│ │ ├─ pages/
+│ │ ├─ hooks/
+│ │ ├─ routes/
+│ │ ├─ lib/
+│ │ └─ App.jsx
+│ ├─ public/**
+│ └─ package.json**
+└─ backend/
 ├─ src/
 │ ├─ configs/ (db.js)
 │ ├─ controllers/ (show.controller.js)
