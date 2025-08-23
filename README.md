@@ -107,8 +107,8 @@ _Status: Active development_
 │ │ ├─ routes/
 │ │ ├─ lib/
 │ │ └─ App.jsx
-│ ├─ public/**
-│ └─ package.json**
+│ ├─ public/
+│ └─ package.json
 └─ backend/
 ├─ src/
 │ ├─ configs/ (db.js)
