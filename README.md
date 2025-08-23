@@ -96,19 +96,19 @@ _Status: Active development_
 
 ## 📂 Project Structure
 
-QuickShow/
-├─ README.md
-├─ frontend/
-│ ├─ src/
-│ │ ├─ components/
-│ │ ├─ pages/
-│ │ ├─ hooks/
-│ │ ├─ routes/
-│ │ ├─ lib/
-│ │ └─ App.jsx
-│ ├─ public/
-│ └─ package.json
-└─ backend/
+**QuickShow/**
+**├─ README.md**
+**├─ frontend/**
+**│ ├─ src/**
+**│ │ ├─ components/**
+**│ │ ├─ pages/**
+**│ │ ├─ hooks/**
+**│ │ ├─ routes/**
+**│ │ ├─ lib/**
+**│ │ └─ App.jsx**
+**│ ├─ public/**
+**│ └─ package.json**
+**└─ backend/**
 ├─ src/
 │ ├─ configs/ (db.js)
 │ ├─ controllers/ (show.controller.js)
