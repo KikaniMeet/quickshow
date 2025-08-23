@@ -118,6 +118,7 @@ QuickShow/
 │ ├─ services/ (tmdb.service.js)
 │ ├─ inngest/ (optional)
 │ └─ server.js
+└─ package.json
 
 
 ---
