@@ -97,6 +97,7 @@ _Status: Active development_
 ## 📂 Project Structure
 
 **QuickShow/**
+```bash
 **├─ README.md**
 **├─ frontend/**
 **│ ├─ src/**
@@ -119,7 +120,7 @@ _Status: Active development_
 │ ├─ inngest/ (optional)
 │ └─ server.js
 └─ package.json
-
+```
 
 ---
 
